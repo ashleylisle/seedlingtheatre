@@ -9,7 +9,7 @@ html, body {
 
 .navbar {
     padding: .8rem;
-    font-family: "Avenir", serif;
+    font-family: "Avenir", sans-serif;
 }
 
 .navbar-nav li{
